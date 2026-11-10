@@ -1,0 +1,5 @@
+Git Lab 5 - Team Collaboration
+
+This file demonstrates collaborative development using Git.
+Team members can contribute changes through separate branches.
+Changes are reviewed and merged into the main branch.
