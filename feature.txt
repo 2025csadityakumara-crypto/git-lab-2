@@ -1,0 +1,2 @@
+This file is created inside the feature branch.
+Learning Git branching and merging.
